@@ -7,4 +7,4 @@ This is a flight tracker program made in Python. View your flight with ease usin
 ## Prerequisites
 
 - `requests` (`pip install requests`)
-- 
+- [Aviationstack API](https://aviationstack.com/dashboard)
