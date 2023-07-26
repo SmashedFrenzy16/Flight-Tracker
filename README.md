@@ -13,3 +13,4 @@ This is a flight tracker program made in Python. View your flight with ease usin
 ## Other Info
 
 - On Line 5 of `flight_tracker.py`, replace `ENTER API KEY HERE`
+- Run `python3 flight_tracker.py` in a terminal if you have Python 3.
