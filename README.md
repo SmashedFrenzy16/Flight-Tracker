@@ -11,3 +11,5 @@ This is a flight tracker program made in Python. View your flight with ease usin
 - [Aviationstack API](https://aviationstack.com/dashboard)
 
 ## Other Info
+
+- On Line 5 of `flight_tracker.py`, replace `ENTER API KEY HERE`
